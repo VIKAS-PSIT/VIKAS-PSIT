@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIKAS YADAV</h1>
-<h3 align="center">Highly motivated Computer Science and Engineering student with a strong foundation in programming, front-end development, and machine learning. Seeking a challenging technical role to leverage my proficiency in C++, Python and data structures, HTML, CSS, JS and contribute to organizational growth. Eager to apply my machine learning expertise and collaborative problem - solving skills.</h3>
+<h3 align="center">Computer Science and Engineering student with a strong foundation in programming, front-end development, and machine learning. Seeking a challenging technical role to leverage my proficiency in C++, Python and data structures, HTML, CSS, JS and contribute to organizational growth. Eager to apply my machine learning expertise and collaborative problem - solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-psit&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-psit" /> </p>
 
